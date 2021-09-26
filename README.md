@@ -1,4 +1,4 @@
-# Olá! <img src="https://github.com/gherrerar/gherrerar/blob/main/img/wave.gif" width="50px">
+# Olá! <img src="https://github.com/gherrerar/gherrerar/blob/main/img/wave.gif" width="40px">
 
 <!--
 **gherrerar/gherrerar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
