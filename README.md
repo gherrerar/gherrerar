@@ -24,4 +24,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gherrerar&label=Visitas&color=0e75b6&style=flat" alt="gherrerar" width="100px"/> </p>
 
-![Snake animation](https://github.com/gherrerar/gherrerar/blob/output/github-contribution-grid-snake.svg)
+<p align="center"> ![Snake animation](https://github.com/gherrerar/gherrerar/blob/output/github-contribution-grid-snake.svg) </p>
