@@ -20,4 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gherrerar&show_icons=true&locale=en&layout=compact" alt="gherrerar" /></p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gherrerar)
+<h3>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+</h3>
