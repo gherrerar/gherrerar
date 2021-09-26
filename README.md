@@ -1,7 +1,11 @@
 # Olá! <img src="https://github.com/gherrerar/gherrerar/blob/main/img/wave.gif" width="40px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gherrerar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gherrerar&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gherrerar&layout=compact&theme=tokyonight" height="20rem"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gherrerar&hide=stars&count_private=true&show_icons=true&theme=tokyonight" height="20rem"/>
+</div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gherrerar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gherrerar&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gherrerar&theme=onedark" alt="gherrerar" /></a> </p>
 
