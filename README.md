@@ -19,5 +19,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gherrerar&label=Profile%20views&color=0e75b6&style=flat" alt="gherrerar" /> </p>
 <p align="center">
   <a href="https://codepen.io/batataG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="batataG" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/awdawdaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awdawdaw" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-herrera-rodrigues-b915aa210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel" height="30" width="40" /></a>
 </p>
