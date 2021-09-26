@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/gabriel-herrera-rodrigues-b915aa210/" target="blank"><img src="https://img.shields.io/badge/-Linkedin-%232868b2?style=for-the-badge&logo=linkedin"/></a>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gherrerar&label=Visitas&color=#53ed56&style=flat-square" alt="gherrerar-visits" width="200px"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gherrerar&label=Visitas&color=53ed56&style=flat-square" alt="gherrerar-visits" width="200px"/> </p>
 
 <div align="center"> 
    <img src="https://github.com/gherrerar/gherrerar/blob/output/github-contribution-grid-snake.svg"/>
