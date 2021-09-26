@@ -18,8 +18,8 @@
 </div>
 
 <div align="center">
-  <a href="https://codepen.io/batataG" target="blank"><img align="center" src="https://img.shields.io/badge/-Codepen-%230a0a08?style=for-the-badge&logo=codepen"" height="30" width="40"/></a>
-  <a href="https://www.linkedin.com/in/gabriel-herrera-rodrigues-b915aa210/" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-%232868b2?style=for-the-badge&logo=linkedin" height="30" width="40" /></a>
+  <a href="https://codepen.io/batataG" target="blank"><img src="https://img.shields.io/badge/-Codepen-%230a0a08?style=for-the-badge&logo=codepen"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-herrera-rodrigues-b915aa210/" target="blank"><img src="https://img.shields.io/badge/-Linkedin-%232868b2?style=for-the-badge&logo=linkedin"/></a>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gherrerar&label=Visitas&color=0e75b6&style=flat" alt="gherrerar" width="100px"/> </p>
