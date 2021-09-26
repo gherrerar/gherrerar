@@ -22,6 +22,6 @@
   <a href="https://www.linkedin.com/in/gabriel-herrera-rodrigues-b915aa210/" target="blank"><img src="https://img.shields.io/badge/-Linkedin-%232868b2?style=for-the-badge&logo=linkedin"/></a>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gherrera&label=Visitas&color=0e75b6&style=flat" alt="gherrerar" width="100px"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gherrerar&label=Visitas&color=0e75b6&style=flat" alt="gherrerar" width="100px"/> </p>
 
 ![Snake animation](https://github.com/gherrerar/gherrerar/blob/output/github-contribution-grid-snake.svg)
