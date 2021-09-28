@@ -1,8 +1,8 @@
 # Olá! <img src="https://github.com/gherrerar/gherrerar/blob/main/img/wave.gif" width="40px">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gherrerar&layout=compact&theme=tokyonight" height="200rem"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gherrerar&hide=stars&count_private=true&show_icons=true&theme=tokyonight" height="200rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gherrerar&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gherrerar&hide=stars&count_private=true&show_icons=true&theme=tokyonight" height="180em"/>
 </div>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gherrerar&theme=onedark" alt="gherrerar" /></a> </p> -->
