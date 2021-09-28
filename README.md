@@ -1,8 +1,8 @@
 # Olá! <img src="https://github.com/gherrerar/gherrerar/blob/main/img/wave.gif" width="40px">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gherrerar&layout=compact&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=gherrerar&hide=stars&count_private=true&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gherrerar&layout=compact&theme=tokyonight" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gherrerar&hide=stars&count_private=true&show_icons=true&theme=tokyonight" height="150em"/>
 </div>
 
 
@@ -33,7 +33,6 @@
 
 <div align="center">
   <a href="https://codepen.io/batataG" target="blank"><img src="https://img.shields.io/badge/-Codepen-%230a0a08?style=for-the-badge&logo=codepen"/></a>
-  &ensp;
   <a href="https://www.linkedin.com/in/gabriel-herrera-rodrigues-b915aa210/" target="blank"><img src="https://img.shields.io/badge/-Linkedin-%232868b2?style=for-the-badge&logo=linkedin"/></a>
 </div>
 
