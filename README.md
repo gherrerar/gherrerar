@@ -44,5 +44,3 @@
    <img src="https://github.com/gherrerar/gherrerar/blob/output/github-contribution-grid-snake.svg"/>
 <!--   ![Snake animation](https://github.com/gherrerar/gherrerar/blob/output/github-contribution-grid-snake.svg) -->
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=72256425)
