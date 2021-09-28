@@ -17,6 +17,8 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/>
 </div>
 
+<hr>
+
 <div align="center">
   <a href="https://codepen.io/batataG" target="blank"><img src="https://img.shields.io/badge/-Codepen-%230a0a08?style=for-the-badge&logo=codepen"/></a>
   <a href="https://www.linkedin.com/in/gabriel-herrera-rodrigues-b915aa210/" target="blank"><img src="https://img.shields.io/badge/-Linkedin-%232868b2?style=for-the-badge&logo=linkedin"/></a>
