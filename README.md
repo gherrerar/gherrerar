@@ -37,7 +37,6 @@
   <a href="https://www.linkedin.com/in/gabriel-herrera-rodrigues-b915aa210/" target="blank"><img src="https://img.shields.io/badge/-Linkedin-%232868b2?style=for-the-badge&logo=linkedin"/></a>
 </div>
 
-&ensp;
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gherrerar&label=Visitas&color=53ed56&style=flat-square" alt="gherrerar-visits" width="100px"/> </p>
 
 <div align="center"> 
