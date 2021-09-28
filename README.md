@@ -37,9 +37,12 @@
   <a href="https://www.linkedin.com/in/gabriel-herrera-rodrigues-b915aa210/" target="blank"><img src="https://img.shields.io/badge/-Linkedin-%232868b2?style=for-the-badge&logo=linkedin"/></a>
 </div>
 
+&emsp;
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gherrerar&label=Visitas&color=53ed56&style=flat-square" alt="gherrerar-visits" width="100px"/> </p>
 
 <div align="center"> 
    <img src="https://github.com/gherrerar/gherrerar/blob/output/github-contribution-grid-snake.svg"/>
 <!--   ![Snake animation](https://github.com/gherrerar/gherrerar/blob/output/github-contribution-grid-snake.svg) -->
 </div>
+
+![](https://hit.yhype.me/github/profile?user_id=72256425)
