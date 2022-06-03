@@ -1,4 +1,4 @@
-# Olá! <img src="https://github.com/gherrerar/gherrerar/blob/main/img/wave.gif" width="40px">
+# Olá! <img src="https://github.com/gherrerar/gherrerar/blob/main/img/wave.gif" width="10px">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gherrerar&layout=compact&theme=tokyonight" height="160em"/>
@@ -6,7 +6,7 @@
 </div>
 
 
-<h2 align="left">Tecnologias Estudadas <img src="https://github.com/gherrerar/gherrerar/blob/main/img/skills.gif" width="30px"></h3>
+<h2 align="left">Tecnologias Estudadas <img src="https://github.com/gherrerar/gherrerar/blob/main/img/skills.gif" width="10px"></h3>
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   &emsp;
