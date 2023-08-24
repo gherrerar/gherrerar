@@ -6,7 +6,7 @@
 </div>
 
 
-<h2 align="left">Tecnologias Estudadas <img src="https://github.com/gherrerar/gherrerar/blob/main/img/skills.gif" width="30"></h3>
+<h2 align="left"><img src="https://github.com/gherrerar/gherrerar/blob/main/img/skills.gif" width="25"> Tecnologias Estudadas</h2>
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   &emsp;
